@@ -1,0 +1,25 @@
+//
+//  PlayingCard.m
+//  FirstProject
+//
+//  Created by Apostol Apostolov on 1/13/14.
+//
+//
+
+#import "PlayingCard.h"
+
+@implementation PlayingCard
+
+-(NSString *) contents{
+    
+    return [NSString stringWithFormat:@"%d%",self.rank,self.suit];
+}
+
+
+
+
+
+
+
+
+@end
