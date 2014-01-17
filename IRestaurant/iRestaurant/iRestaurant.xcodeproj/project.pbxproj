@@ -21,6 +21,7 @@
 		4B36819D18882C5F0071C6E4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4B36819B18882C5F0071C6E4 /* InfoPlist.strings */; };
 		4B36819F18882C5F0071C6E4 /* iRestaurantTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B36819E18882C5F0071C6E4 /* iRestaurantTests.m */; };
 		4B3681AA18882D450071C6E4 /* RestaurantOrdersController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B3681A918882D450071C6E4 /* RestaurantOrdersController.m */; };
+		4BE234031889649A00F16B57 /* WebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BE234021889649A00F16B57 /* WebViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		4B36819E18882C5F0071C6E4 /* iRestaurantTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iRestaurantTests.m; sourceTree = "<group>"; };
 		4B3681A818882D450071C6E4 /* RestaurantOrdersController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RestaurantOrdersController.h; sourceTree = "<group>"; };
 		4B3681A918882D450071C6E4 /* RestaurantOrdersController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RestaurantOrdersController.m; sourceTree = "<group>"; };
+		4BE234011889649A00F16B57 /* WebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewController.h; sourceTree = "<group>"; };
+		4BE234021889649A00F16B57 /* WebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +118,8 @@
 				4B36818518882C5F0071C6E4 /* Main.storyboard */,
 				4B3681A818882D450071C6E4 /* RestaurantOrdersController.h */,
 				4B3681A918882D450071C6E4 /* RestaurantOrdersController.m */,
+				4BE234011889649A00F16B57 /* WebViewController.h */,
+				4BE234021889649A00F16B57 /* WebViewController.m */,
 				4B36818B18882C5F0071C6E4 /* Images.xcassets */,
 				4B36817A18882C5F0071C6E4 /* Supporting Files */,
 			);
@@ -253,6 +258,7 @@
 				4B36818018882C5F0071C6E4 /* main.m in Sources */,
 				4B36818418882C5F0071C6E4 /* iRestaurantAppDelegate.m in Sources */,
 				4B3681AA18882D450071C6E4 /* RestaurantOrdersController.m in Sources */,
+				4BE234031889649A00F16B57 /* WebViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
